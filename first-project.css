@@ -7,22 +7,22 @@ header {
     text-shadow: 3px 3px 5px #7A2533;
     background-image: url(tulip-banner.jpg);
 }
+h3 {
+    text-align: center;
+}
 nav{
     text-align: center;
 }
 nav img{
     height: 240px;
-    width: 192px; 
+    width: 192px;
+    padding: 40px;
 }
 nav ul li {
     display: inline;
-    margin-right: 20px;
 }
 nav img:hover {
-    clip-path: circle(50%);
-}
-nav img:active {
-    clip-path: circle(50%);
+    opacity: 50%;
 }
 p {
     color: #7A2533;
