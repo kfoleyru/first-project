@@ -1,27 +1,28 @@
-h1 {
+header {
     color: #F3B2CE;
-    font-size: 42px;
+    font-size: 25px;
     font-weight: bold;
     font-family: fantasy;
     text-align: center;
     text-shadow: 3px 3px 5px #7A2533;
-    background-image: url(tulip-banner.jpg.tiff);
+    background-image: url(tulip-banner.jpg);
 }
-div.gallery {
-    margin: 50px;
-    float: left;
-    width: 180px;
-  }
-div.gallery:hover {
-    clip-path: circle(40%);
-  }
-div.gallery img{
-    padding-left: 100px;
-    height: 240px;
-    width: 192px;
-}
-div.desc {
+nav{
     text-align: center;
+}
+nav img{
+    height: 240px;
+    width: 192px; 
+}
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+nav img:hover {
+    clip-path: circle(50%);
+}
+nav img:active {
+    clip-path: circle(50%);
 }
 p {
     color: #7A2533;
