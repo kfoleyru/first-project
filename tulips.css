@@ -1,0 +1,42 @@
+h1 {
+    color: #F3B2CE;
+    font-size: 42px;
+    font-weight: bold;
+    font-family: cursive, fantasy;
+    text-align: center;
+    text-shadow: 3px 3px 5px #7A2533;
+    background-image: url(tulip-banner.jpg.tiff);
+}
+
+h2 {
+    color: rgb(148, 138, 213);
+    text-shadow: 3px 3px 5px #3a1a45;
+    font-family: cursive, fantasy;
+    text-align: center;
+    font-size: 30px;
+}
+
+h3 {
+    font-weight: bold;
+    text-align: left;
+    padding-right: 80%;
+}
+
+.container {
+    content: "";
+    clear: both;
+    display: table;
+    float: right;
+
+}
+
+p {
+    font-family: monospace;
+    padding-right: 20%;
+}
+
+img {
+    width: 260px;
+    height: 315px;
+    padding-left: 30%;
+}
