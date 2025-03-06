@@ -46,3 +46,22 @@ img {
    height: 315px;
    padding-left: 30%;
 }
+
+footer {
+   padding-top: 25px;
+   text-align: center;
+   font-size: 15px;
+   font-family: cursive;
+}
+
+a:link {
+   color: #ca4bbb;
+}
+
+a:visited {
+   color: #ca4bbb;
+}
+
+a:hover {
+   color: #74119b;
+}
