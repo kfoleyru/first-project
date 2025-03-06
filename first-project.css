@@ -54,6 +54,8 @@ header a h3:active {
 }
 nav{
     text-align: center;
+    background-color: #b2acb7bc;
+    border-radius: 10%;
 }
 nav img{
     height: 240px;
