@@ -31,9 +31,23 @@ h3 {
    display: table;
    float: right;
 
-
 }
 
+ul{
+   padding-left: 0%;
+   font-family: cursive;
+   color: #29282a;
+   text-align: center;
+}
+
+h4 {
+   text-align: center;
+   font-family: cursive;
+}
+
+ul li {
+   list-style-position: inside;
+}
 
 p {
    font-family: monospace;
