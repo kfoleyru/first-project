@@ -36,8 +36,9 @@ header {
     background-image: url(tulip-banner.jpg);
 }
 h3 {
+    font-size: 30px;
     color: #7A2533;
-    font-family: fantasy;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
 }
 header a h3:link{
@@ -93,7 +94,7 @@ main {
 }
 .sidebar h2 {
     text-align: center;
-    font-family: fantasy;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: whitesmoke
 } 
 .sidebar ul, 
